@@ -1,0 +1,5 @@
+IP: 158.160.66.24;
+name_taski: https://fionit-2077.sytes.net;
+name_kittygram: https://ohmykittygram.sytes.net;
+login: Pavel1;
+password: Leontevpavel1;
